@@ -10,8 +10,8 @@ export default function Layout(props) {
     )
     const footer = (
         <footer>
-            <p>Build by <a href="https://www.smoljames.com" target="_blank">kalyan</a>
-            <br />Styled with <a href="https://www.fantacss.smoljames.com" target="_blank">FantaCSS</a></p>
+            <p>Build by <a href="https://kalyan-web-portfolio.netlify.app/" target="_blank">kalyan</a>
+            <br />Styled with <a href="https://github.com/kalyan-git-repo/Fanta_CSS" target="_blank">FantaCSS</a></p>
         </footer>
     )
     return (

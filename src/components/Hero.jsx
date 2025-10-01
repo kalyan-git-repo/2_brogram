@@ -1,15 +1,15 @@
 export default function Hero() {
     return (
         <>
-            <h5>Complete this training program if youn want to ...</h5>
+            <h5>Complete this training program if you want to ...</h5>
             <ol className="benefits-list">
                 <li>Follow a simple program with guarenteed results</li>
                 <li>Get Fit, Healthy, Strong and Shredded</li>
-                <li>Learn moe about Gym, Traing and Techniques</li>
+                <li>Learn more about Gym, Training and Techniques</li>
                 <li>Become a Lifetime GYM BRO❤️</li>
             </ol>
             <h3>The Rules</h3>
-            <p>To complete this program, you <b>MUST</b> these 3 simple rules:</p>
+            <p>To complete this program, you <b>MUST follow</b> these 3 simple rules:</p>
             <ul className="rules-list">
                 <div className="rule-item">
                     <p><b>Rest</b></p>
